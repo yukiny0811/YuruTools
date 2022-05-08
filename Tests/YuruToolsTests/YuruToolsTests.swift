@@ -10,6 +10,6 @@ final class YuruToolsTests: XCTestCase {
     }
     
     func testColorEx() {
-        XCTAssertNoThrow(UIColor.random)
+        XCTAssertNoThrow(Color.random)
     }
 }
