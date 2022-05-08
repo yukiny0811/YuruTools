@@ -1,5 +1,6 @@
 # YuruTools
-Useful tools to use for myself
+Useful tools to use for myself 
+(Just wanted to learn how to make a swift package)
 
 [![CI](https://github.com/yukiny0811/YuruTools/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/yukiny0811/YuruTools/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/v/release/yukiny0811/YuruTools)](https://github.com/yukiny0811/YuruTools/releases/latest)
